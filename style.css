@@ -752,6 +752,7 @@ body {
   #footerleft {
     width: 100%;
     height: 20vh;
+    border-left:none;
     border-bottom: 3px solid black;
   }
 
@@ -776,6 +777,7 @@ body {
   #footermid {
     width: 100%;
     height: 100%;
+    border-left:none;
     border-bottom: 3px solid black;
     text-align: center;
     padding-top: 2vw;
@@ -789,6 +791,7 @@ body {
   #footerright-top {
     padding-top: 2vw;
     padding-bottom: 2vw;
+    border-left:none;
     border-bottom: 3px solid black;
     text-align: center;
   }
